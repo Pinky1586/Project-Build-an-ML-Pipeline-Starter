@@ -145,3 +145,7 @@ mlruns/
 outputs/
 random_forest_dir/
 multirun/
+mlflow.db
+mlruns/
+Miniconda3-latest-MacOSX-arm64.sh
+*.sh
