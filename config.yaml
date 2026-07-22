@@ -29,7 +29,7 @@ modeling:
   # RandomForestRegressor. This is a subsample, but more could be added:
   random_forest:
     n_estimators: 200
-    max_depth: 50
+    max_depth: 15
     min_samples_split: 4
     min_samples_leaf: 3
     # Here -1 means all available cores
