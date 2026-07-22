@@ -8,6 +8,7 @@ An end-to-end, reproducible Machine Learning pipeline built with **MLflow** and 
 
 * **Weights & Biases Project:** [W&B Project Dashboard](https://wandb.ai/cjernbe-western-governors-university/nyc_airbnb/overview)
 * **GitHub Release Tag:** `1.0.2`
+* **GitHub Project Link:** [https://github.com/Pinky1586/Project-Build-an-ML-Pipeline-Starter]
 
 ---
 
